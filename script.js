@@ -1,4 +1,3 @@
-
 console.log('ABC');
 
 function towerOfHanoi(numberOfDisks, fromLocation, usedLocation, toLocation)
